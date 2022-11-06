@@ -1,4 +1,4 @@
-//�׽�Ʈ ���
+//Å×½ºÆ® Åë°ú
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
